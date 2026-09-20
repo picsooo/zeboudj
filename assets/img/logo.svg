@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 200" width="660" height="200" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="bx" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c0304a"/><stop offset="1" stop-color="#8d1b31"/>
+    </linearGradient>
+  </defs>
+  <!-- emblème : tours + arc -->
+  <g transform="translate(14,12)">
+    <path d="M22 118 C46 74 110 74 134 118 Z" fill="none" stroke="url(#bx)" stroke-width="7" stroke-linecap="round"/>
+    <rect x="52" y="24" width="20" height="82" fill="url(#bx)"/>
+    <rect x="76" y="14" width="22" height="92" fill="#a02038"/>
+    <rect x="100" y="34" width="16" height="72" fill="url(#bx)" opacity=".85"/>
+    <g fill="#ffffff" opacity=".85">
+      <rect x="57" y="36" width="10" height="7"/><rect x="57" y="52" width="10" height="7"/>
+      <rect x="57" y="68" width="10" height="7"/><rect x="57" y="84" width="10" height="7"/>
+      <rect x="81" y="28" width="12" height="8"/><rect x="81" y="46" width="12" height="8"/>
+      <rect x="81" y="64" width="12" height="8"/><rect x="81" y="82" width="12" height="8"/>
+      <rect x="104" y="46" width="8" height="7"/><rect x="104" y="62" width="8" height="7"/>
+      <rect x="104" y="78" width="8" height="7"/>
+    </g>
+    <circle cx="140" cy="106" r="7" fill="#a02038"/>
+  </g>
+  <text x="178" y="104" font-size="62" font-weight="700" letter-spacing="7" fill="#ffffff">ZEBBOUDJ</text>
+  <text x="182" y="140" font-size="20" letter-spacing="7.5" fill="#c0304a"
+        font-family="Helvetica, Arial, sans-serif" font-weight="500">PROMOTION IMMOBILIÈRE</text>
+</svg>

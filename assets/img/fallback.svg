@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 950" width="1400" height="950" font-family="Georgia, serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1e1620"/><stop offset="1" stop-color="#0d090e"/></linearGradient>
+<linearGradient id="bx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c0304a"/><stop offset="1" stop-color="#7d1628"/></linearGradient></defs>
+<rect width="1400" height="950" fill="url(#bg)"/>
+<circle cx="1120" cy="200" r="300" fill="#b32b45" opacity="0.10"/>
+<g><rect x="560" y="420" width="80" height="310" fill="url(#bx)" opacity=".55"/>
+<rect x="655" y="350" width="90" height="380" fill="url(#bx)"/>
+<rect x="760" y="400" width="70" height="330" fill="url(#bx)" opacity=".7"/></g>
+<path d="M480 740 C580 640 820 640 920 740" fill="none" stroke="#c0304a" stroke-width="6"/>
+<text x="700" y="812" text-anchor="middle" font-size="32" letter-spacing="11" fill="#e2929f">ZEBBOUDJ</text>
+<text x="700" y="848" text-anchor="middle" font-size="15" letter-spacing="6" fill="#8b8084" font-family="Helvetica, Arial, sans-serif">PROMOTION IMMOBILIÈRE</text>
+</svg>
